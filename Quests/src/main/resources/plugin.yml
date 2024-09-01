@@ -1,0 +1,13 @@
+
+name: QuestPlugin
+version: 1.0
+main: com.yourname.questplugin.QuestPlugin
+api-version: 1.16
+commands:
+  questadmin:
+    description: Admin commands to manage quests
+    usage: /<command> <create|list|remove>
+    permission: questplugin.admin
+  quests:
+    description: View available quests and progress
+    usage: /quests

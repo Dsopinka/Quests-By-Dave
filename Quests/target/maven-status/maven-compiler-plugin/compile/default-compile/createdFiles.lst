@@ -1,0 +1,10 @@
+com\yourname\questplugin\QuestManager.class
+com\yourname\questplugin\commands\QuestAdminTabCompleter.class
+com\yourname\questplugin\QuestPlugin.class
+com\yourname\questplugin\commands\QuestsCommand.class
+com\yourname\questplugin\commands\QuestAdminCommand.class
+com\yourname\questplugin\PlayerJoinListener.class
+com\yourname\questplugin\Quest.class
+com\yourname\questplugin\QuestDataManager.class
+com\yourname\questplugin\commands\QuestsGUICommand.class
+com\yourname\questplugin\QuestListener.class
